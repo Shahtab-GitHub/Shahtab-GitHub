@@ -1,9 +1,8 @@
-(https://media.licdn.com/dms/image/D5616AQECeSKI3hOImQ/profile-displaybackgroundimage-shrink_350_1400/0/1696257825221?e=1701907200&v=beta&t=1_PM83-Fk-eAZNFgo0kev2bacGPY9YBRTeHsbtw_4LA)
+![I graduated from East West University from B.Sc. in CSE.](https://media.licdn.com/dms/image/D5616AQECeSKI3hOImQ/profile-displaybackgroundimage-shrink_350_1400/0/1696257825221?e=1701907200&v=beta&t=1_PM83-Fk-eAZNFgo0kev2bacGPY9YBRTeHsbtw_4LA)
+
 
 ### Hi👋, my name is Md. Shahtab Hossain
 #### I graduated from East West University from B.Sc. in CSE.
-![I graduated from East West University from B.Sc. in CSE.]
-
 My major is Intelligent Systems and Data Science. But I am hopeful to start my career in Software field.
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP
