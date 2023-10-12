@@ -5,7 +5,7 @@
 #### I graduated from East West University from B.Sc. in CSE.
 My major is Intelligent Systems and Data Science. But I am hopeful to start my career in Software field.
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP
+Skills: REACT / JS / HTML / CSS / BOOTSTRAP / NODEJS / EXPRESSJS / MONGODB
 
 - 🌱 I’m currently learning React 
 
